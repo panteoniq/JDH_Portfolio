@@ -1,0 +1,9 @@
+[submodule "Software_Project"]
+	path = Software_Project
+	url = https://github.com/panteoniq/2015_Software_Project.git
+[submodule "SIG"]
+	path = SIG
+	url = https://github.com/panteoniq/2016_SIG.git
+[submodule "Capstone_Design"]
+	path = Capstone_Design
+	url = https://github.com/panteoniq/2017_Capstone_Design.git
