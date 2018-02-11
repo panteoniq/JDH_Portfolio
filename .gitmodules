@@ -4,9 +4,6 @@
 [submodule "SIG"]
 	path = SIG
 	url = https://github.com/panteoniq/2016_SIG.git
-[submodule "Capstone_Design"]
-	path = Capstone_Design
-	url = https://github.com/panteoniq/2017_Capstone_Design.git
 [submodule "Celestia"]
 	path = Celestia
 	url = https://github.com/panteoniq/2008to2011_Celestia.git
