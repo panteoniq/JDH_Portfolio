@@ -7,3 +7,6 @@
 [submodule "Celestia"]
 	path = Celestia
 	url = https://github.com/panteoniq/2008to2011_Celestia.git
+[submodule "Capstone_Design"]
+	path = Capstone_Design
+	url = https://github.com/panteoniq/2017_Capstone_Design.git
