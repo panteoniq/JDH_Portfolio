@@ -10,3 +10,6 @@
 [submodule "Capstone_Design"]
 	path = Capstone_Design
 	url = https://github.com/panteoniq/2017_Capstone_Design.git
+[submodule "Smart_Lighting"]
+	path = Smart_Lighting
+	url = https://github.com/panteoniq/2016to2017_SmartLighting.git
