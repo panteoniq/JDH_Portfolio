@@ -13,9 +13,6 @@
 [submodule "Smart_Lighting"]
 	path = Smart_Lighting
 	url = https://github.com/panteoniq/2016to2017_SmartLighting.git
-[submodule "Network_System"]
-	path = Network_System
-	url = https://github.com/panteoniq/2016_Network_System.git
 [submodule "2015_OOP"]
 	path = 2015_OOP
 	url = https://github.com/panteoniq/2015_OOP.git
